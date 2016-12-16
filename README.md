@@ -1,0 +1,1 @@
+Demonstrates an issue with VoiceOver: Sometimes swiping right from Label will take you to Bar (second cell) rather than Foo (first cell).
